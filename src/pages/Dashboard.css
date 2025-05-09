@@ -11,6 +11,16 @@ body {
     color: #333;
   }
   
+
+  button.reset-btn {
+  background-color: #6c757d; /* gray */
+  margin-left: 10px;
+}
+
+button.reset-btn:hover {
+  background-color: #5a6268;
+}
+
   /* Container for dashboard */
   .dashboard-container {
     width: 80%;
